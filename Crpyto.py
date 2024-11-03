@@ -16,7 +16,8 @@ i="hash-identifier" #A tool that identifies the type of hash based on its format
 j="hashpump"        #A tool for exploiting hash length extension vulnerabilities, allowing users to append data to a hashed message without knowing the secret
 k="steghide"        #A steganography tool that embeds data within various media formats, such as images and audio files, to hide messages.
 l="binwalk"         #firmware analysis tool that scans binary files for embedded files and executable code, useful for reverse engineering and analysis
-m="echo"         # Use this to see how to decrypt through terminal
+m="echo"            # Use this to see how to decrypt through terminal
+x="website"
 n="tools"
 
 
@@ -58,6 +59,11 @@ elif Input==l:
 
 elif Input==m:
 	print("echo 'encoded form' | base64 -d ")
+elif Input==x:
+	print("""
+ 1- https://gchq.github.io/CyberChef/
+ 2- https://www.dcode.fr/
+ 3- https://www.base64decode.org/ """)
 
 elif Input==n:
 	print ( """
