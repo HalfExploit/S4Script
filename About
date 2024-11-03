@@ -1,0 +1,17 @@
+#This Tool is especially design for Hackers, Pentesters, Bug Bounty Hunter, Ctf Players.
+#It provide all commands for web exploitation tools....
+Usagae: 
+
+This tool provide all commands which many hackers forget. Like you forget what was the command for gobuster, or dirb, or subfinder
+so this tool will provide all these. 
+
+#tools : show all tools
+
+-->PlayExploits(Web): tools
+
+#website: show all common website for recon.
+
+-->PlayExploits(Web): website
+
+#use any tool command by just copy, paste it. exp (You forget command of massdns tool so just type massdns in my tool and it will show.
+
