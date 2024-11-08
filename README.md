@@ -7,7 +7,7 @@ Web recon and Cryptography tools "Commands".
 ## Authors
 
 - [@PlayExploits](https://www.github.com/PlayExploits)
-- [@Pwnipad](https://www.github.com/PWNIPAD)
+- [@PwnBatman](https://www.github.com/PwnBatman)
 
 ## Deployment
 
@@ -52,5 +52,5 @@ EXP:
 
 
 ## Credits
-Recollect is created by [@PlayExploits](https://www.github.com/PlayExploits) and [@Pwnipad](https://www.github.com/PWNIPAD)
+Recollect is created by [@PlayExploits](https://www.github.com/PlayExploits) and [@PwnBatman](https://www.github.com/PwnBatman)
 ![k](https://github.com/user-attachments/assets/cfe4dc4b-4948-4ba0-a492-731ca163e45b)
