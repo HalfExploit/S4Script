@@ -7,7 +7,7 @@ Web recon and Cryptography tools "Commands".
 ## Authors
 
 - [@PlayExploits](https://www.github.com/PlayExploits)
-- [@hahaSafe](https://www.github.com/hahasafe]
+- [@hahaSafe](https://www.github.com/hahasafe)
 
 ## Deployment
 
