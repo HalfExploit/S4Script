@@ -52,5 +52,5 @@ EXP:
 
 
 ## Credits
-Recollect is created by [@PlayExploits](https://www.github.com/PlayExploits) and [@ysocietyh](https://www.github.com/ysociety)
+Recollect is created by [@PlayExploits](https://www.github.com/PlayExploits) and [@ysociety](https://www.github.com/ysociety)
 ![k](https://github.com/user-attachments/assets/cfe4dc4b-4948-4ba0-a492-731ca163e45b)
